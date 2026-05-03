@@ -13,14 +13,23 @@ class Solution(object):
         
         # return False
 
-        nums_dict = {}
+        # nums_dict = {}
+
+        # for v in nums:
+        #     if v in nums_dict:
+        #         return True
+        #     else:
+        #         nums_dict[v] = 1
+        
+        # return False
+
+        seen = set()
 
         for v in nums:
-            if v in nums_dict:
+            if v in seen:
                 return True
             else:
-                nums_dict[v] = 1
-        
+                seen.add(v)
         return False
 
         
