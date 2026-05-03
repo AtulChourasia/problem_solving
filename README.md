@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0817-design-hashmap](https://github.com/AtulChourasia/problem_solving/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/AtulChourasia/problem_solving/tree/master/0948-sort-an-array) |
+| [1929-concatenation-of-array](https://github.com/AtulChourasia/problem_solving/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AtulChourasia/problem_solving/tree/master/0948-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/AtulChourasia/problem_solving/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
