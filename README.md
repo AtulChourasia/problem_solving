@@ -30,17 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AtulChourasia/problem_solving/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/AtulChourasia/problem_solving/tree/master/0948-sort-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AtulChourasia/problem_solving/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AtulChourasia/problem_solving/tree/master/0217-contains-duplicate) |
 | [0817-design-hashmap](https://github.com/AtulChourasia/problem_solving/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/AtulChourasia/problem_solving/tree/master/0948-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/AtulChourasia/problem_solving/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AtulChourasia/problem_solving/tree/master/0217-contains-duplicate) |
 | [0817-design-hashmap](https://github.com/AtulChourasia/problem_solving/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
